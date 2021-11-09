@@ -1,0 +1,33 @@
+package com.jslhrd.controller;
+
+import com.jslhrd.service.Action;
+import com.jslhrd.service.board.BoardDeleteProService;
+import com.jslhrd.service.board.BoardDeleteService;
+import com.jslhrd.service.board.BoardListService;
+import com.jslhrd.service.board.BoardModifyProService;
+import com.jslhrd.service.board.BoardModifyService;
+import com.jslhrd.service.board.BoardViewService;
+import com.jslhrd.service.board.BoardWriteProService;
+import com.jslhrd.service.board.BoardWriteService;
+
+public class AdminActionFactory {
+	private AdminActionFactory() {}
+	
+	private static AdminActionFactory instance = 
+							new AdminActionFactory();
+	
+	public static AdminActionFactory getInstance() {
+		return instance;
+	}
+	
+	public Action getAction(String cmd) {
+		Action action = null;
+		
+		if(cmd==null) {
+			action=new AdminLoginService();
+		}
+		
+		return action;
+	}
+	
+}

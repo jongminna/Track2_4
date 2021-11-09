@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+	*{margin:0; padding:0;}
+	ul,li {list-style:none;}
+	a {text-decoration:none;}
+	.logo {color:#fff; text-align:center;background-color:#0040FF;
+	      padding:16px 0;}
+	.navi{padding:12px 0; overflow:hidden;background-color:#BCA9F5;}
+	.navi ul,li{float:left; padding:0 20px; text-align:center;}
+	.content{background-color:#E6E6E6; padding:16px; height:500px;} 
+	.content table{width:800px; margin:0 auto;}
+	.content table th, td{border:1px solid #bbb;}
+	.content table .btn_group{text-align:center;}
+	.content .text_center {text-align:center;}	
+	.title{text-align:center;padding:22px;}
+
+	.footer{padding:16px 0; text-align:center;background-color:#0040FF;} 
+

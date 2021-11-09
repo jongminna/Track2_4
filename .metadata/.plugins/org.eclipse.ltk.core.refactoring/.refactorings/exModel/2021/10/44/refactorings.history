@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;exUserAuthentication/src/util&apos;&#x0D;&#x0A;- Original project: &apos;exModel&apos;&#x0D;&#x0A;- Destination element: &apos;exUserAuthentication/src/util&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     exModel.util.DBManager.java&#x0D;&#x0A;     exModel.util.UserSHA256.java" description="Copy compilation units" destination="=exUserAuthentication/src&lt;util" element1="/src&lt;exModel.util{DBManager.java" element2="/src&lt;exModel.util{UserSHA256.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1635235972212" units="2" version="1.0"/>
+</session>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="494"/>
+		<item key="DIALOG_Y_ORIGIN" value="251"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="E:\NCS 관련 자료\정보처리산업기사 문제\NCS 기출문제\2020년 09월 08일 2차 실기\HRD_DistrictPoll"/>
+			<item value="E:\NCS 관련 자료\정보처리산업기사 문제\NCS 기출문제\2020년 05월 19일 2차 실기\HRD_Vaccin"/>
+			<item value="E:\NCS 관련 자료\정보처리산업기사 문제\NCS 기출문제\2020년 02월 18일 2차 실기\HRD_WareHouse"/>
+			<item value="E:\NCS 관련 자료\정보처리산업기사 문제\NCS 기출문제\2019년 12월 10일 2차 실기\HRD_Smart2"/>
+			<item value="E:\NCS 관련 자료\정보처리산업기사 문제\NCS 기출문제\2019년 12월 10일 2차 실기\HRD_Smart"/>
+			<item value="E:\NCS 관련 자료\정보처리산업기사 문제\NCS 기출문제\2019년 09월 03일 2차 실기\HRD_Artist2"/>
+			<item value="E:\NCS 관련 자료\정보처리산업기사 문제\NCS 기출문제\2021년 02월 23일 2차 실기\HRD_OilSales"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>
